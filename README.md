@@ -1,0 +1,1 @@
+![Tip-time-app-screenshot](images/tip_time_ss.png)
